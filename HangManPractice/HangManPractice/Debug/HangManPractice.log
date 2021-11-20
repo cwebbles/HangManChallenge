@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HangManPractice.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HangMan.cpp
+C:\Users\colli\source\repos\HangManPractice\HangManPractice\HangMan.cpp(50,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colli\source\repos\HangManPractice\HangManPractice\HangMan.cpp(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colli\source\repos\HangManPractice\HangManPractice\HangMan.cpp(120,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colli\source\repos\HangManPractice\HangManPractice\HangMan.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+  HangManPractice.vcxproj -> C:\Users\colli\source\repos\HangManPractice\Debug\HangMan.exe
